@@ -60,13 +60,10 @@ To analyze customer churn patterns, uncover key drivers, and deliver actionable 
 - Offer incentives for long-term contracts.
 - Encourage stable payment methods (credit card, bank transfer) to reduce churn.
 - Provide proactive support for fiber optic customers.
-- Target retention strategies toward early-tenure customers.
+- Target retention strategie[archive 2.zip](https://github.com/user-attachments/files/20094436/archive.2.zip)
+s toward early-tenure customers.
 
 ## Repository Contents
 
-- Cleaned dataset (`cleaned_customer_churn.xlsx`)
-- Excel dashboard (`customer_churn_dashboard.xlsx`)
-- Dashboard screenshots (`dashboard_screenshot.png`)
-- Conditional formatting
-
-
+- Excel Cleaned dataset and dashboard [Churn analysis.xlsx](https://github.com/user-attachments/files/20094432/Churn.analysis.xlsx)
+- Dashboard screenshots ![Churn_LE_upscale_balanced_x4](https://github.com/user-attachments/assets/bd433f1d-880e-45e8-b91d-b1096c6e5e8b)
